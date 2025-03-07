@@ -1,0 +1,34 @@
+.top-header {
+    display: flex;
+    margin-top:20px;
+    justify-content: center;
+    height: 120px;
+}
+
+body{
+    background-color: darkblue ;
+    margin:0;
+    padding: 0;
+}
+
+.nyhedsbrev-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 20px;
+    padding: 20px;
+}
+.nyhedsbrev{
+    text-align: center;
+    padding: 10px;
+}
+
+.nyhedsbrev img{
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+
+
+
