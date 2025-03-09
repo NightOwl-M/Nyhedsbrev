@@ -32,11 +32,23 @@ body{
 .icon-line {
     display: flex;
     justify-content: center;
+    align-items: center;
     max-height: 20vh;
     min-height: 5vh;
     height: 14vh;
     padding: 2px;
     margin-top: 80px;
+}
+
+.icon-line a {
+    display: inline-block;
+    margin: 1px;
+}
+
+.icon-line img {
+    max-height: 100%;
+    max-width: 100%;
+    object-fit: contain;
 }
 
 
