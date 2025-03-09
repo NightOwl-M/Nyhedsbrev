@@ -21,3 +21,5 @@ Features:
 
 Søge funktion, til at kunne søge i efter ord i nyhedsbrevene
 Login funktion med admin-bruger, hvor admin kan uploade nye nyhedsbreve
+
+Mockup: https://www.figma.com/design/GxFd76JiVf59jPIYRbUcjX/Nyhedsbrev?node-id=0-1&p=f&t=Bvo5OtuX4p6F1Mso-0
